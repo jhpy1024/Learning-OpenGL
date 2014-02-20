@@ -1,6 +1,10 @@
 # depslib dependency file v1.0
-1392913884 source:c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\source\main.cpp
+1392915265 source:c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\source\main.cpp
 	<SFML/Graphics.hpp>
+	<memory>
+	"Application.hpp"
+	"SimpleTriangle.hpp"
+	<GL/glew.h>
 
 1367993678 c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\libraries\sfml2.1\sfml-2.1\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -335,4 +339,25 @@
 	<SFML/System/String.hpp>
 	<string>
 	<vector>
+
+1392914575 source:c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\source\application.cpp
+	"Application.hpp"
+
+1392914433 c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\include\application.hpp
+	<SFML/Graphics.hpp>
+
+1392915164 source:c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\source\simpletriangle.cpp
+	"SimpleTriangle.hpp"
+	<GL/gl.h>
+
+1392915470 c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\include\simpletriangle.hpp
+	"Application.hpp"
+
+1374498682 c:\users\jhpy1024\documents\visual studio 2012\projects\learningopengl\libraries\glew-1.10.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
 
